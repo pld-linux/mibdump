@@ -1,12 +1,12 @@
 Summary:	mibdump - dump management agent data based on MIBs
 Summary(pl):	mibdump - zrzucanie danych agenta zarz±dzaj±cego w oparciu o MIB-y
 Name:		mibdump
-Version:	0.1.1
+Version:	0.1.2
 Release:	1
 License:	GPL
 Group:		Applications/Networking
 Source0:	ftp://ftp.ibr.cs.tu-bs.de/pub/local/libsmi/%{name}-%{version}.tar.gz
-# Source0-md5:	03420ede08269f1c9baf09df32f1c86b
+# Source0-md5:	724bf7632d649087439f5cb0f5b39c19
 Patch0:		%{name}-netsnmp.patch
 URL:		http://www.ibr.cs.tu-bs.de/projects/libsmi/
 BuildRequires:	autoconf
