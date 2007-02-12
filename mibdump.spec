@@ -1,5 +1,5 @@
 Summary:	mibdump - dump management agent data based on MIBs
-Summary(pl):	mibdump - zrzucanie danych agenta zarz±dzaj±cego w oparciu o MIB-y
+Summary(pl.UTF-8):   mibdump - zrzucanie danych agenta zarzƒÖdzajƒÖcego w oparciu o MIB-y
 Name:		mibdump
 Version:	0.1.2
 Release:	1
@@ -20,9 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The mibdump program is used to dump the agent data of a single MIB
 module to stdout in a selectable output format.
 
-%description -l pl
-Program mibdump s≥uøy do zrzucania danych agenta pojedynczego modu≥u
-MIB na standardowe wyj∂cie w wybranym formacie wyj∂ciowym.
+%description -l pl.UTF-8
+Program mibdump s≈Çu≈ºy do zrzucania danych agenta pojedynczego modu≈Çu
+MIB na standardowe wyj≈õcie w wybranym formacie wyj≈õciowym.
 
 %prep
 %setup -q
