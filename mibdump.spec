@@ -1,5 +1,5 @@
 Summary:	mibdump - dump management agent data based on MIBs
-Summary(pl.UTF-8):   mibdump - zrzucanie danych agenta zarządzającego w oparciu o MIB-y
+Summary(pl.UTF-8):	mibdump - zrzucanie danych agenta zarządzającego w oparciu o MIB-y
 Name:		mibdump
 Version:	0.1.2
 Release:	1
